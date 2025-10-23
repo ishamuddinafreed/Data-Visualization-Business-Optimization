@@ -21,4 +21,4 @@ Finance Data: Expense Type, ROI, Budget Utilization
 Data structured to provide a holistic business view — aligning financial, operational, and customer metrics for improved decision-making and performance optimization.
 
 Screenshot:
-https://github.com/abdul-afreed/Business-Optimization/blob/main/prog1-1.png
+https://github.com/ishamuddinafreed/Data-Visualization-Business-Optimization/blob/main/powebi%20project%202.png
