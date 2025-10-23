@@ -23,4 +23,4 @@ Data structured to provide a holistic business view — aligning financial, oper
 Screenshot:
 1. https://github.com/ishamuddinafreed/Data-Visualization-Business-Optimization/blob/main/powebi%20project%202.png
 
-2.https://github.com/ishamuddinafreed/Data-Visualization-Business-Optimization/blob/main/power%20bi%20project%202.png
+  2.https://github.com/ishamuddinafreed/Data-Visualization-Business-Optimization/blob/main/power%20bi%20project%202.png
